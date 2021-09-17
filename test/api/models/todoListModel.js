@@ -7,6 +7,10 @@ const TaskSchema = new Schema({
     type: String,
     required: "Kindly enter the name of the task",
   },
+  secondtask: {
+    type: String,
+    required: "second",
+  },
   Created_date: {
     type: Date,
     default: Date.now,
