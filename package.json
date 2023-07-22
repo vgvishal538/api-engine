@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-      "netlify-lambda": "netlify-lambda server"
+      "netlify-lambda": "netlify-lambda serve netlify/functions"
   },
   "author": "",
   "license": "ISC",

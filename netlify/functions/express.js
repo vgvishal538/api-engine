@@ -1,5 +1,5 @@
 const express = require('express');
-const app = require('./app'); // Adjust the path based on your project structure
+const app = require('../../app'); // Adjust the path based on your project structure
 
 const server = express();
 
