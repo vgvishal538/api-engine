@@ -20,7 +20,7 @@
 
 // console.log("todo list RESTful API server started on: " + port);
 
-const express = require('express')
+/* const express = require('express')
 const app = express()
 
 app.get("/", (req, res) =>{
@@ -28,3 +28,4 @@ app.get("/", (req, res) =>{
 })
 
 app.listen(3000);
+*/
